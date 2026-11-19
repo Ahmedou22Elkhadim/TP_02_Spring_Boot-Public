@@ -1,6 +1,6 @@
 ﻿# TP 02 — Réponses aux questions de compréhension
 
-# (#Ahmredou / Elkhadim IE22051)
+# (Ahmredou / Elkhadim IE22051)
 ## 1. IoC vs DI
 
 - **IoC** (le principe) : ce n'est plus l'objet qui crée ses dépendances, c'est un conteneur externe (`ApplicationContext`).
